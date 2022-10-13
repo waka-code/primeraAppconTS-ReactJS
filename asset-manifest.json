@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/primeraAppconTS-ReactJS/static/css/main.31d6cfe0.css",
+    "main.js": "/primeraAppconTS-ReactJS/static/js/main.c3ae4dcf.js",
+    "index.html": "/primeraAppconTS-ReactJS/index.html",
+    "main.c3ae4dcf.js.map": "/primeraAppconTS-ReactJS/static/js/main.c3ae4dcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c3ae4dcf.js"
+  ]
+}
